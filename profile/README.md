@@ -1,4 +1,6 @@
-#### Connect With Ous<img src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Handshake.gif" height="32px">
+
+<div align="center">
+#### Connect With Ou<img src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Handshake.gif" height="32px">
 
 
 
