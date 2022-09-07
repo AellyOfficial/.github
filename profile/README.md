@@ -23,3 +23,35 @@ src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Gmail.svg" alt="Gma
 </div>
 
 <div align="center" width="50">
+  <div align="center">
+  <h1>Hoi I'm <a href="https://github.com/AellyRbot">Aelly</a></h1>
+  <p>Organanisation by ~<a href="https://github.com/anunicn47">Ananya</a> and ~<a href="https://github.com/kkara9009">Karan</a>.</p>
+</div>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Passionate+Developers+From+India%E2%9C%8C%EF%B8%8F;Working+on+Backend%E2%9D%A4%EF%B8%8F;Working+on+Frontend%E2%9D%A4%EF%B8%8F;Better+Command+over+Telegram+and+Whatsapp%E2%9D%A4%EF%B8%8F">
+</p>
+<p align="center">
+  <a href="https://t.me/an_unic_or_n47"><img src="https://telegra.ph//file/3c97c3d969dde31608d0c.jpg"></a>
+  <p align="center">
+<a href="https://telegram.me/kkara9009">
+    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
+  </a>  
+ </a>
+  <a href="https://github.com/kkara9009">
+    <img src="https://img.shields.io/github/followers/kkara9009?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+  </a>
+  <a href="https://github.com/anunicn47">
+    <img src="https://img.shields.io/github/followers/anunicn47?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+  </a>
+  
+  
+
+# My GitHub Stats
+
+![Aelly Git Stats](https://github-readme-stats.vercel.app/api?username=Aelly&include_all_commits=true&count_private=true&theme=highcontrast)
+
+
+# Visitor count
+<a href="https://t.me/hodackaX"><img alt="Cute Count" src="https://count.getloli.com/get/@Aelly?theme=rule34" /></a>
+
