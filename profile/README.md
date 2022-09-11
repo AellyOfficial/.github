@@ -1,4 +1,5 @@
-
+<a href="https://t.me/kkara9009"><img src="https://telegra.ph/file/22b9771b49cec8c5b7f87.gif"></a>
+  <p align="center">
 <div align="center">
 #### Connect With Us....<img src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Handshake.gif" height="32px">
 
@@ -45,8 +46,7 @@ src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Gmail.svg" alt="Gma
     <img src="https://img.shields.io/github/followers/anunicn47?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>
   
-  <a href="https://t.me/kkara9009"><img src="https://telegra.ph/file/22b9771b49cec8c5b7f87.gif"></a>
-  <p align="center">
+
 
 
   
