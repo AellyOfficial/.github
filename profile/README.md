@@ -44,14 +44,6 @@ src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Gmail.svg" alt="Gma
   <a href="https://github.com/anunicn47">
     <img src="https://img.shields.io/github/followers/anunicn47?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>
-  
-  
-
-# My GitHub Stats
-
-![Aelly Git Stats](https://github-readme-stats.vercel.app/api?username=Aelly&include_all_commits=true&count_private=true&theme=highcontrast)
-
-
 # Visitor count
 <a href="https://t.me/hodackaX"><img alt="Cute Count" src="https://count.getloli.com/get/@Aelly?theme=rule34" /></a>
 
