@@ -45,5 +45,5 @@ src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Gmail.svg" alt="Gma
     <img src="https://img.shields.io/github/followers/anunicn47?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>
 # Visitor count
-<a href="https://t.me/hodackaX"><img alt="Cute Count" src="https://count.getloli.com/get/@Aelly?theme=rule34" /></a>
+<a href="https://t.me/kkara9009"><img alt="Cute Count" src="https://count.getloli.com/get/@Aelly?theme=rule34" /></a>
 
