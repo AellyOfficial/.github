@@ -1,22 +1,10 @@
-<a href="https://t.me/kkara9009"><img src="https://telegra.ph/file/22b9771b49cec8c5b7f87.gif"></a>
+
+<div margin-left: 400px align="center" width="600">
+ <a href="https://t.me/kkara9009"><img src="https://telegra.ph/file/22b9771b49cec8c5b7f87.gif"></a>
   <p align="center">
+  
+  
 <div align="center">
-#### Connect With Us....<img src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Handshake.gif" height="32px">
-
-
-
-#### Ananya
-[![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/an_unic_orn_47)<br>
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="34">](https://github.com/anunicn47) [<img 
-src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">]( mailto:itsme.ananya47@gmail.com )
-#### Karan
-[![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/kkara9009)<br>
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="34">](https://github.com/kkara9009) [<img 
-src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">]( mailto:kkara9009@gmail.com )
-
-
-
-
 
 <div margin-left: 400px align="center" width="600">
 
@@ -46,7 +34,16 @@ src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Gmail.svg" alt="Gma
     <img src="https://img.shields.io/github/followers/anunicn47?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>
   
+#### Connect With Us....<img src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Handshake.gif" height="32px">
 
+#### Ananya
+[![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/an_unic_orn_47)<br>
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="34">](https://github.com/anunicn47) [<img 
+src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">]( mailto:itsme.ananya47@gmail.com )
+#### Karan
+[![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/kkara9009)<br>
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="34">](https://github.com/kkara9009) [<img 
+src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">]( mailto:kkara9009@gmail.com )
 
 
   
