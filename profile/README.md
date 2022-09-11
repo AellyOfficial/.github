@@ -44,7 +44,8 @@ src="https://github.com/anunicn47/anunicn47/blob/main/Assets/Gmail.svg" alt="Gma
   <a href="https://github.com/anunicn47">
     <img src="https://img.shields.io/github/followers/anunicn47?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>
-   <a href="https://t.me/kkara9009"><img src="https://telegra.ph/file/22b9771b49cec8c5b7f87.gif"></a>
+  
+  <a href="https://t.me/kkara9009"><img src="https://telegra.ph/file/22b9771b49cec8c5b7f87.gif"></a>
   <p align="center">
 
 
